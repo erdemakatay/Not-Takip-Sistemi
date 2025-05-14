@@ -4,7 +4,10 @@ Bu proje, öğrencilerin vize ve final notlarını kaydederek not ortalamaların
 
 Projenin Amacı
 
-Not takip sistemi, eğitim kurumlarında öğretmenlerin veya idari personelin öğrenci notlarını kolayca yönetmesi için geliştirilmiştir. Amaç, manuel not takibindeki hataları azaltmak, veri girişini kolaylaştırmak ve öğrenci performansını hızlıca değerlendirmektir. Proje şu problemleri çözmeyi hedefler: • Not girişinde geçersiz veri (Örn: 0-100 arasındaki notlar) sorununu önlemek. • Öğrenci verilerini kalıcı olarak saklamak. • Kullanıcı dostu bir arayüz aracılığıyla hızlı ve verimli veri işleme sağlamak.
+Not takip sistemi, eğitim kurumlarında öğretmenlerin veya idari personelin öğrenci notlarını kolayca yönetmesi için geliştirilmiştir. Amaç, manuel not takibindeki hataları azaltmak, veri girişini kolaylaştırmak ve öğrenci performansını hızlıca değerlendirmektir. Proje şu problemleri çözmeyi hedefler: 
+• Not girişinde geçersiz veri (Örn: 0-100 arasındaki notlar) sorununu önlemek.
+• Öğrenci verilerini kalıcı olarak saklamak. 
+• Kullanıcı dostu bir arayüz aracılığıyla hızlı ve verimli veri işleme sağlamak.
 
 Özellikler
 
